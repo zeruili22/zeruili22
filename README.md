@@ -104,7 +104,6 @@ I work across the deployment pipeline, from hardware integration and ROS develop
 
 - **PhD research at AIML** — began in 2024.
 - **B.Eng. (Honours), Electrical & Electronic Engineering** — The University of Adelaide, 2023.
-- **3rd place**, CCF Robot Embodied Intelligence Challenge, 2023.
 - **Teaching:** casual academic, co-lecturing and serving as lead teaching assistant for AI courses.
 - **Outreach:** AIML Ambassador.
 
