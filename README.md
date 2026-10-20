@@ -32,8 +32,7 @@ My research focuses on **Vision-and-Language Navigation (VLN)**: enabling robots
 - **Interactive recovery:** trajectory monitoring and grounded dialogue to help agents recognise and correct mistakes.
 - **Real-world generalisation:** physics-based evaluation and deployment across quadrupeds, wheeled robots, and aerial platforms.
 
-**Current focus:** monocular navigation and agents that operate without a waypoint predictor, with simpler sensing requirements for real quadrupeds.
-
+**Current focus:** training large multimodal models for VLN and developing a VLN benchmark in complex, dynamic, high-fidelity simulation environments.
 ## Publications
 
 <sub>&#42; Equal contribution. My name is shown in bold.</sub>
